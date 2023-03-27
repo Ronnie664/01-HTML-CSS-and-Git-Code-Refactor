@@ -5,3 +5,4 @@ The overall functionality of the website is now much better, you can now click o
 
 # Screenshot
 Here is a screenshot of the website
+![Website Screenshot](./assets/images/Horiseon%20Screenshot.png)
